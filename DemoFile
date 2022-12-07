@@ -5,7 +5,7 @@
     <body>
       <p style="width: 450; height:450">This is height and width </p>
       <h2>Heading is the most important part</h2>  
-      <p style="color:blue">Red color disply</p>
+      <a href="https://www.google.com/">Link</a>
       <p style="color:red">Red color disply</p>
         
 </html>
