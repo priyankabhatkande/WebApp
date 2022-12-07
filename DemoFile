@@ -7,5 +7,10 @@
       <h2>Heading is the most important part</h2>  
       <a href="https://www.google.com/">Link</a>
       <p style="color:red">Red color disply</p>
-        
+      <h2>Heading is the most important part</h2>  
+      <a href="https://www.google.com/">Link</a>
+      <p style="color:orange">Red color disply</p>
+      <p style="width: 450; height:450">This is height and width </p>
+      <h2>Heading is the most important part</h2>  
+      <a href="https://www.google.com/">Link</a>
 </html>
