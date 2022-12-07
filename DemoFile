@@ -5,5 +5,7 @@
     <body>
         <h1 style="font-size: large;"x;>Heading 1</h1>
         <a href="https://www.google.com/"> This is the link</a>
+        <h1 style="font-size: large;"x;>Heading 1</h1>
+        <a href="https://www.google.com/"> This is the link</a>
     </body>
 </html>
